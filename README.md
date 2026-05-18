@@ -4,12 +4,12 @@
 
 ## Publications Overview
 
-| # | Title | Venue | Type | Year |
-|---|---|---|---|---|
-| 1 | Automatic Skin Cancer Diagnosis Using Brute Force and Xception | Springer (AISI 2024) | Conference Paper 🏆 | 2024 |
-| 2 | Advanced Skin Cancer Classification Using Xception | Taylor & Francis | Book Chapter | 2024 |
-| 3 | A Mobile-Based Deep Learning System for Skin Disease Diagnosis | IEEE (IMSA 2024) | Conference Paper | 2024 |
-| 4 | Deep Learning-Based Multi-class Skin Disease Diagnosis Toward Sustainable Healthcare | Springer | Book Chapter | 2024 |
+| # | Title | Venue | Type | Submitted | Published|
+|---|---|---|---|---|---|
+| 1 | Automatic Skin Cancer Diagnosis Using Brute Force and Xception | Springer (AISI 2024) | Conference Paper 🏆 | 2024 | Dec 2024 |
+| 2 | Advanced Skin Cancer Classification Using Xception | Taylor & Francis | Book Chapter | 2024 | Sep 2024 |
+| 3 | A Mobile-Based Deep Learning System for Skin Disease Diagnosis | IEEE (IMSA 2024) | Conference Paper | 2024 | Mar 2025 |
+| 4 | Deep Learning-Based Multi-class Skin Disease Diagnosis Toward Sustainable Healthcare | Springer | Book Chapter | 2024 | Oct 2025 |
 
 ---
 
