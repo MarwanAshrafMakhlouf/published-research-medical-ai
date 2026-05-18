@@ -69,7 +69,7 @@ Binary classification: Benign / Malignant
 
 ---
 
-## Book Chapter 2 — Advanced Skin Cancer Classification Using Xception
+## Book Chapter 1 — Advanced Skin Cancer Classification Using Xception
 
 > **Venue:** Taylor & Francis | **Type:** Book Chapter
 
@@ -189,7 +189,7 @@ A hybrid dataset combining:
 
 ---
 
-## Book Chapter 1 — Deep Learning-Based Multi-class Skin Disease Diagnosis Toward Sustainable Healthcare
+## Book Chapter 2 — Deep Learning-Based Multi-class Skin Disease Diagnosis Toward Sustainable Healthcare
 
 > **Venue:** Springer | **Type:** Book Chapter
 
