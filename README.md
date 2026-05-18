@@ -1,7 +1,3 @@
-Got it, one big README with 4 clear sections. Here it is:
-
----
-
 # Medical AI Research — Skin Disease Diagnosis
 
 > Published work in deep learning-based dermatological diagnosis. Covers binary skin cancer detection and multi-class skin disease classification using Xception and ResNet50 architectures.
